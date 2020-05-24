@@ -7,10 +7,6 @@ Link to the app is : [ArttistDB](https://artistdbfrontend.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Status 
-
-[![Build Status](https://github.com/rahulkaplesh/artistdb.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
-
 ## Available Scripts
 
 In the project directory, you can run:
