@@ -7,6 +7,10 @@ Link to the app is : [ArttistDB](https://artistdbfrontend.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Status
+
+[![Heroku App Status](http://heroku-shields.herokuapp.com/artistdbfrontend)](https://artistdbfrontend.herokuapp.com)
+
 ## Available Scripts
 
 In the project directory, you can run:
