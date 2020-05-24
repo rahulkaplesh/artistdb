@@ -1,5 +1,4 @@
 # Objective
-============
 
 This is a sample react i created and have hosted on heroku . It connects to API service hosted on heroku ....
 
@@ -7,6 +6,10 @@ Link to the app is : [ArttistDB](https://artistdbfrontend.herokuapp.com/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Status 
+
+[![Build Status](https://github.com/rahulkaplesh/artistdb.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
 
 ## Available Scripts
 
